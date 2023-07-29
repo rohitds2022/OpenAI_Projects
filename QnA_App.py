@@ -55,11 +55,25 @@ def main():
     st.title("My Question and Answer Bot")
     st.write("Ask me a question.")
     
-    user_input = st.text_input("Enter your question in the box below: ")
-    if user_input:
-        generated_output = qa_app(user_input)
-        st.write("Answer: ")
-        st.write(generated_output)
+    conversation = []
+    counter = 0
+    
+    while True:
+        
+        user_input = st.text_input("You:", key=f'user_input_{counter}') 
+        #The key parameter is set to f'user_input_{counter}', where counter is a variable that likely increments on each iteration of the           loop. The key parameter is used to uniquely identify this particular text input widget, allowing Streamlit to update it correctly           when the app is rerun.
+            
+        if user_input:
+            conversation.append({"role":"user","content": user_input})
+            generated_output = qa_app(user_input)
+            conversation.append({"role":"model","content": generated_output})
+            
+            st.write(f"{conversation[-1]['role']}: \n {conversation[-1]['content']}")
+            
+            counter+=1
+            
+        else:
+            break
         
 if __name__ == "__main__":
     main()
