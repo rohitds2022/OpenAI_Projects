@@ -1,0 +1,57 @@
+Online Stationary Store: ScribbleMart
+
+Description: ScribbleMart is your one-stop-shop for all your stationary needs. We offer a wide range of high-quality stationary items suitable for students, professionals, and anyone who loves writing and organizing. Our user-friendly website provides a seamless shopping experience, secure payments, and fast delivery right to your doorstep.
+
+Inventory with Cost Prices:
+
+Pens:
+
+Ballpoint Pen (Pack of 5): $3.99
+Gel Pen (Pack of 3): $2.49
+Rollerball Pen (Single): $1.25
+Fountain Pen (with ink converter): $14.99
+Pencils:
+
+Wooden Pencil (Pack of 12): $2.49
+Mechanical Pencil (0.7mm, Single): $1.99
+Notebooks:
+
+Spiral Notebook (70 pages, 6x9 inches): $4.99
+Composition Notebook (100 pages, 8.5x11 inches): $5.99
+Leather-Bound Journal (200 pages, 5x7 inches): $12.99
+Sticky Notes:
+
+Standard Sticky Notes (Pack of 100): $1.99
+Colored Sticky Notes (Pack of 200): $3.49
+Highlighters:
+
+Yellow Highlighter (Pack of 6): $4.49
+Assorted Colors Highlighters (Pack of 12): $8.99
+Erasers:
+
+Rubber Eraser (Pack of 4): $1.99
+Eraser Stick (Single): $0.99
+Rulers:
+
+Plastic Ruler (12 inches): $1.49
+Metal Ruler (18 inches): $2.99
+Staplers:
+
+Mini Stapler with Staples: $3.99
+Standard Stapler with Staples: $5.99
+Paper Clips:
+
+Standard Paper Clips (Pack of 200): $1.49
+Jumbo Paper Clips (Pack of 100): $2.99
+Scissors:
+
+Student Scissors: $2.49
+Office Scissors: $4.99
+Glue Sticks:
+
+Small Glue Stick (Pack of 3): $2.49
+Large Glue Stick (Single): $1.99
+File Folders:
+
+Manila File Folders (Pack of 10): $3.99
+Colored File Folders (Pack of 5): $2.99
